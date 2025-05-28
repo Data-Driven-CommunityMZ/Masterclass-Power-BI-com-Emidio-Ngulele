@@ -36,6 +36,6 @@ Para acompanhar a MasterClass, você precisará ter instaladas as seguintes ferr
 
 - Python - [https://www.python.org/downloads/](https://www.python.org/downloads/)
 -  VS Code -[https://code.visualstudio.com/](https://code.visualstudio.com/)
--  Anaconda ) -[https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
+-  Anaconda  -[https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
 
 
