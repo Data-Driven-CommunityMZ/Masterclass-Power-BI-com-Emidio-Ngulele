@@ -32,7 +32,11 @@ Durante a Masterclass, você irá:
 - Gerar dashboards com gráficos interativos e KPI em Excel
 - Agilizar a produção de relatórios com  Python
 
-Para acompanhar a MasterClass, você precisará ter instaladas as seguintes ferramentas:
+## Dados Utilizados
+Os dados utilizados nesta MasterClass estão disponíveis publicamente no seguinte repositório:
+[https://github.com/jfjelstul/worldcup/tree/master/data-csv](https://github.com/jfjelstul/worldcup/tree/master/data-csv)
+
+##Para acompanhar a MasterClass, você precisará ter instaladas as seguintes ferramentas:
 
 - Python - [https://www.python.org/downloads/](https://www.python.org/downloads/)
 -  VS Code -[https://code.visualstudio.com/](https://code.visualstudio.com/)
