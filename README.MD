@@ -1,6 +1,6 @@
 #  MasterClass: Python para Automatização de Dados do Mundial de Futebol – 1ª Edição 
 
-![Banner](./cover.jpeg)
+![Banner](.cover/cover.jpeg)
 
 ## 📌 Descrição
 
