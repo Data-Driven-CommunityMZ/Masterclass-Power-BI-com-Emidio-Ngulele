@@ -23,7 +23,7 @@ Esta Masterclass foi desenvolvida para capacitar você no uso de **Python** para
 O objetivo principal é **automatizar a análise e geração de relatórios do Mundial de Futebol**, utilizando bibliotecas Python.
 ---
 
-## 🧪 Projeto Prático
+##  Projeto Prático
 
 Durante a Masterclass, você irá:
 
@@ -31,4 +31,11 @@ Durante a Masterclass, você irá:
 - Automatizar relatórios de desempenho por país, jogador, ano, etc.
 - Gerar dashboards com gráficos interativos e KPI em Excel
 - Agilizar a produção de relatórios com  Python
+
+Para acompanhar a MasterClass, você precisará ter instaladas as seguintes ferramentas:
+
+- Python - [https://www.python.org/downloads/](https://www.python.org/downloads/)
+-  VS Code -[https://code.visualstudio.com/](https://code.visualstudio.com/)
+-  Anaconda ) -[https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
+
 
