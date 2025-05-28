@@ -2,7 +2,6 @@
 
 ![Banner](cover/cover.jpeg)
 
-## Descrição
 
 Bem-vindo ao repositório oficial da **MasterClass Python para Automatização de Dados do Mundial de Futebol**!
 
